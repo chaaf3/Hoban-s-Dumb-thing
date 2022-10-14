@@ -1,2 +1,0 @@
-all : Phase1Main.cpp CircularDynamicArray.cpp
-	g++ CircularDynamicArray.cpp Phase1Main.cpp -o program --std=c++17 ./program.exe
